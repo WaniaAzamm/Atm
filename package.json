@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "git": "^0.1.5",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "wania-azam-atm",
+  "version": "1.0.0",
+  "description": "\"Simple ATM script using Inquirer.js and Chalk for pin verification and transaction handling, including options for withdrawal, balance checking, and fast cash.\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Atm"
+  ],
+  "author": "Wania Azam",
+  "license": "ISC"
+}
